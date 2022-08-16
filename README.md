@@ -1,5 +1,7 @@
-### Hi there 👋
+# hola mundo 👋
+## este mi repositoria de github 
 
+aqui podras ver trabajos de codigo abierto para todo el mundo.
 <!--
 **naster3/naster3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
