@@ -34,8 +34,7 @@ aqui podras ver mis trabajos.🧑‍💻
   ### Estadisticas:
   
   [![Adolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=naster3&show_icons=true&theme=tokyonight)](https://github.com/naster3)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naster3)](https://github.com/naster3)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naster3&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
   
   ### trabajos en desarrollo:
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naster3&repo=reproductor&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/nasrter3/reproductor)
