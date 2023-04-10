@@ -38,7 +38,7 @@ aqui podras ver mis trabajos de codigo abierto para todo el mundo.🧑‍💻
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naster3)](https://github.com/naster3)
   
   ### trabajos en desarrollo:
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naster3&repo=reproductory&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/nasrter3/reproductor)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naster3&repo=reproductor&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/nasrter3/reproductor)
 <!--
 **naster3/naster3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
