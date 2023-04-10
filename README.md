@@ -1,11 +1,19 @@
 # Hola Mundo 👋
-##soy Naster
+## soy Naster
+aqui podras ver mis trabajos de codigo abierto para todo el mundo.🧑‍💻
 ### herramientas:
+[![](https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/naster3)<!-- Discord -->
+[![](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/naster3) <!-- Flask -->
+[![](https://img.shields.io/badge/OneNote-7719aa?style=for-the-badge&logo=microsoft-onenote&logoColor=white)](https://github.com/naster3) <!-- Microsoft OneNote -->
+[![](https://img.shields.io/badge/telegram-26a5e4?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/naster3) <!--  -->
 
-###lenguajes:
+### lenguajes:
 
 [![](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://github.com/naster3)<!-- Python -->
-aqui podras ver mis trabajos de codigo abierto para todo el mundo.🧑‍💻
+[![](https://img.shields.io/badge/html-e34f26?style=for-the-badge&logo=html&logoColor=white)](https://github.com/naster3) <!-- Html -->
+[![](https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/naster3) <!-- CSS3 -->
+[![](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/naster3) <!-- JS -->
+
 ### redes sociales
 
 <div align="center">
@@ -36,3 +44,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+
+
+
+
