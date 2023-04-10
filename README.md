@@ -1,6 +1,6 @@
 # Hola Mundo 👋
 ## soy Naster
-aqui podras ver mis trabajos de codigo abierto para todo el mundo.🧑‍💻
+aqui podras ver mis trabajos.🧑‍💻
 ### herramientas:
 [![](https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/naster3)<!-- Discord -->
 [![](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/naster3) <!-- Flask -->
