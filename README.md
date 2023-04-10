@@ -1,8 +1,12 @@
-# hola mundo 👋
-## este mi repositoria de github 
+# Hola Mundo 👋
+##soy Naster
+### herramientas:
 
+###lenguajes:
+
+[![](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://github.com/naster3)<!-- Python -->
 aqui podras ver mis trabajos de codigo abierto para todo el mundo.🧑‍💻
-## redes sociales
+### redes sociales
 
 <div align="center">
   
