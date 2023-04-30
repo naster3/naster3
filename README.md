@@ -1,18 +1,26 @@
 # Hola Mundo 👋
+
 ## soy Naster
+
 aqui podras ver mis trabajos.🧑‍💻
-### herramientas:
-[![](https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/naster3)<!-- Discord -->
-[![](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/naster3) <!-- Flask -->
-[![](https://img.shields.io/badge/OneNote-7719aa?style=for-the-badge&logo=microsoft-onenote&logoColor=white)](https://github.com/naster3) <!-- Microsoft OneNote -->
-[![](https://img.shields.io/badge/telegram-26a5e4?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/naster3) <!--  -->
 
-### lenguajes:
+### herramientas
 
-[![](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://github.com/naster3)<!-- Python -->
-[![](https://img.shields.io/badge/html-e34f26?style=for-the-badge&logo=html&logoColor=white)](https://github.com/naster3) <!-- Html -->
-[![](https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/naster3) <!-- CSS3 -->
-[![](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/naster3) <!-- JS -->
+<div align="center">
+
+[![discord](https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/naster3)<!-- Discord -->
+[![flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/naster3) <!-- Flask -->
+[![onenote](https://img.shields.io/badge/OneNote-7719aa?style=for-the-badge&logo=microsoft-onenote&logoColor=white)](https://github.com/naster3) <!-- Microsoft OneNote -->
+[![telegram](https://img.shields.io/badge/telegram-26a5e4?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/naster3) <!--  -->
+
+### lenguajes
+
+<div align="center">
+
+[![python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://github.com/naster3)<!-- Python -->
+[![html](https://img.shields.io/badge/html-e34f26?style=for-the-badge&logo=html&logoColor=white)](https://github.com/naster3) <!-- Html -->
+[![css](https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/naster3) <!-- CSS3 -->
+[![js](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/naster3) <!-- JS -->
 
 ### redes sociales
 
@@ -31,12 +39,13 @@ aqui podras ver mis trabajos.🧑‍💻
 
  </a>
   
-  ### Estadisticas:
+### Estadisticas
   
   [![Adolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=naster3&show_icons=true&theme=tokyonight)](https://github.com/naster3)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naster3&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
   
-  ### trabajos en desarrollo:
+### trabajos en desarrollo
+
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naster3&repo=reproductor&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/nasrter3/reproductor)
 <!--
 **naster3/naster3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,8 +61,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
-
-
-
-
