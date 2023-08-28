@@ -8,7 +8,7 @@ aqui podras ver mis trabajos.🧑‍💻
 
 <div align="center">
 
-[![flask](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/naster3) <!-- Flask -->
+[![flask](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://github.com/naster3) <!-- Flask -->
 [![flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/naster3) <!-- Flask -->
 [![onenote](https://img.shields.io/badge/OneNote-7719aa?style=for-the-badge&logo=microsoft-onenote&logoColor=white)](https://github.com/naster3) <!-- Microsoft OneNote -->
 
