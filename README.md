@@ -1,6 +1,7 @@
 # Hola Mundo 👋
 
-## soy Naster
+##  sobre mi 
+soy Naster
 
 aqui podras ver mis trabajos.🧑‍💻
 
