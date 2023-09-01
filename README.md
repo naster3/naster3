@@ -9,11 +9,20 @@ aqui podras ver mis trabajos.🧑‍💻
 
 <div align="center">
 
-[![flask](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://github.com/naster3) <!-- Flask -->
-[![flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/naster3) <!-- Flask -->
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://github.com/naster3) <!-- Flask -->
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 [![onenote](https://img.shields.io/badge/OneNote-7719aa?style=for-the-badge&logo=microsoft-onenote&logoColor=white)](https://github.com/naster3) <!-- Microsoft OneNote -->
+ ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+ ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+ ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+ ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+ ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+ ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+### database
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+ ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ### lenguajes
 
 <div align="center">
@@ -24,6 +33,7 @@ aqui podras ver mis trabajos.🧑‍💻
 [![c#](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/naster3)
 [![css](https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/naster3) <!-- CSS3 -->
 [![js](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/naster3) <!-- JS -->
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### redes sociales
 
