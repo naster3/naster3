@@ -98,7 +98,7 @@ Me gusta cuidar tanto la parte visual como lo que pasa “detrás de cámaras”
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naster3&repo=reproductor&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)]([https://github.com/naster3/FocusTube](https://github.com/naster3/FocusTube))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naster3&repo=FocusTube&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)]([https://github.com/naster3/FocusTube](https://github.com/naster3/FocusTube))
 
 </div>
 
