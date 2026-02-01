@@ -21,21 +21,26 @@ Me gusta cuidar tanto la parte visual como lo que pasa “detrás de cámaras”
 
 <div align="center">
 
-[![FocusTube](https://github-readme-stats.vercel.app/api/pin/?username=naster3&repo=FocusTube&theme=tokyonight&cache_seconds=86400)](https://github.com/naster3/FocusTube)
-[![organizador](https://github-readme-stats.vercel.app/api/pin/?username=naster3&repo=organizador&theme=tokyonight&cache_seconds=86400)](https://github.com/naster3/organizador)
+<a href="https://github.com/naster3/FocusTube">
+  <img src="https://opengraph.githubassets.com/1/naster3/FocusTube" width="420" alt="FocusTube" />
+</a>
+<a href="https://github.com/naster3/organizador">
+  <img src="https://opengraph.githubassets.com/1/naster3/organizador" width="420" alt="organizador" />
+</a>
 
-[![bloc_notas](https://github-readme-stats.vercel.app/api/pin/?username=naster3&repo=bloc_notas&theme=tokyonight&cache_seconds=86400)](https://github.com/naster3/bloc_notas)
-[![metronomo](https://github-readme-stats.vercel.app/api/pin/?username=naster3&repo=metronomo&theme=tokyonight&cache_seconds=86400)](https://github.com/naster3/metronomo)
+<a href="https://github.com/naster3/bloc_notas">
+  <img src="https://opengraph.githubassets.com/1/naster3/bloc_notas" width="420" alt="bloc_notas" />
+</a>
+<a href="https://github.com/naster3/metronomo">
+  <img src="https://opengraph.githubassets.com/1/naster3/metronomo" width="420" alt="metronomo" />
+</a>
 
 </div>
 
 - **FocusTube Blocker** — Extensión (MV3) para bloquear sitios por horarios, whitelist y modo estricto.  
-- **organizador** — Herramienta en Python para organizar archivos.  
-- **bloc_notas** — Bloc de notas en Python.  
+- **organizador** — Herramienta en Python para organizar archivos automáticamente.  
+- **bloc_notas** — Bloc de notas en Python (simple y funcional).  
 - **metronomo** — Metrónomo web en HTML/CSS/JS.  
-
-> Nota: si alguna card de “Proyectos” se rompe, es porque **github-readme-stats** está inestable (como te pasó).  
-> Si quieres, te lo cambio por cards tipo summary también (más estable).
 
 ---
 
@@ -113,19 +118,5 @@ Me gusta cuidar tanto la parte visual como lo que pasa “detrás de cámaras”
 
 </div>
 
----
-
-## 🛠️ Trabajos en desarrollo
-
-<div align="center">
-
-[![FocusTube](https://github-readme-stats.vercel.app/api/pin/?username=naster3&repo=FocusTube&theme=tokyonight&cache_seconds=86400)](https://github.com/naster3/FocusTube)
-
-</div>
-
-<!--
-## 💰 Apoya mi trabajo
-[![PayPal](https://img.shields.io/badge/PayPal-00457C.svg?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/TU_USUARIO)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/TU_USUARIO)
 -->
 
