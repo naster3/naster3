@@ -119,10 +119,24 @@ Me gusta cuidar tanto la parte visual como lo que pasa “detrás de cámaras”
 
 <div align="center">
 
-[![Naster's GitHub stats](https://github-readme-stats.vercel.app/api?username=naster3&show_icons=true&theme=tokyonight)](https://github.com/naster3)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naster3&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=naster3&show_icons=true&theme=tokyonight" />
+</a>
+
+<a href="https://git.io/streak-stats">
+  <img height="165" src="https://streak-stats.demolab.com?user=naster3&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naster3&layout=compact&langs_count=10&theme=tokyonight" />
+</a>
 
 </div>
+
+<!-- Créditos:
+- Stats: https://github.com/anuraghazra/github-readme-stats
+- Streak: https://github.com/DenverCoder1/github-readme-streak-stats
+-->
 
 ---
 
